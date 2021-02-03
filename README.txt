@@ -1,1 +1,1 @@
-Have just practice to do something in AndroidStudio.
+Have done some practice in AndroidStudio.
